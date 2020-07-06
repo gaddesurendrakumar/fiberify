@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.tresbudigital.fiberify",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.10.0",
+    "applicationType": "monolith",
+    "baseName": "fiberify",
+    "packageName": "com.tresbudigital.fiberify",
+    "packageFolder": "com/tresbudigital/fiberify",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NGY2OTYxZDNjMDJmMTBjNjk5OGY5ZWNkZjA2YTA0NWEzOTNkYmE1ZGRiZjg0ZmNmMzZiZTAzNDcxMzA0MTc2YjdmNDJmNTUwYThmNDFjMjc3ZmE5NmQwMTViZmUwN2FhOTUzN2EwNzEyYTk5M2M0OTk5ZWM0NDhhYzY1ODFhMDM=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1594010922124,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en"],
+    "blueprints": []
+  }
+}
